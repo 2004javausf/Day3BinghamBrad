@@ -20,6 +20,7 @@ public class Cat {
 	public boolean isCurious() {
 		return curious;
 	}
+	
 	public void setCurious(boolean curious) {
 		this.curious = curious;
 	}
